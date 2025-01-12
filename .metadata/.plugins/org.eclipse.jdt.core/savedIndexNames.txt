@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\natha\eclipse-Promineo-mySQL-java1\.metadata\.plugins\org.eclipse.jdt.core
+317132112.index
+2170124146.index
+3413270776.index
+2157356341.index
+1865797976.index
