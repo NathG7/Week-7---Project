@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import project.exception.DbException;
 
 
-public class DBConnection {
+public class DbConnection {
 
 	private static final String SCHEMA = "project";
 	private static final String USER = "project";
@@ -19,7 +19,7 @@ public class DBConnection {
 		String url = String.format("jdbc:mysql://%s:%d/%s?user=%s&password=%s&useSSL=false", 
 				HOST, PORT, SCHEMA, USER, PASSWORD);
 		
-		System.out.println("Connecting with url=" + url);
+		//System.out.println("Connecting with url=" + url);
 		
 		try {
 			Connection conn = DriverManager.getConnection(url);
