@@ -12,7 +12,7 @@ import project.service.ProjectService;
  * This class is a menu-driven application that accepts user input from the console. It then
  * performs CRUD operations on the project tables.
  * 
- * @author Promineo
+ *
  *
  */
 public class ProjectsApp {
